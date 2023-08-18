@@ -1,0 +1,18 @@
+chat-info   help, HELP, What is your name ? who are you, what are you, can I call you, what is your purpose, point of your existence, what are you good for, why were you built, what can you do or will do
+greeting-thanks     thank you, thanks, Thanks, Thanks for the help, appreciate it, Appreciated
+greeting-hello    hello Hello hi HI, how's it going, good morning, good evening, good afternoon, howdy, hey Hey, Hi there
+conversation-continue   great ok okay wow great oh, is it, that's great, good really hmm lemme think
+conversation-complete   bye Bye, done that's all, that is all, that's it I am done, nothing else, finished, completed, concluded, wrapped up, finalized, accomplished, achieved, ended, settled, closed, fulfilled, executed, resolved, terminated, reached the end, reached completion, wound up, finished up, wrapped things up, done and dusted, mission accomplished, task completed, job done, work finished
+pathway-help-jobs   information with jobs, find a job, job search, job opportunities, job hunting, guidance on jobs, job exploration, job openings
+pathway-help-resume     information with resume, resume writing, improve resume, crafting a resume, writing a strong resume, resume tips, resume pointers, I need guidance on resume construction
+pathway-help-resume-tech    Give example of a resume, resume, show a resume, create an example of a resume, what should a resume contain? make a resume, write a resume, create a resume, construct a resume
+pathway-help-cover-letter   information with cover letter, pointer on crafting a cover letter, cover letter writing, cover letter tips
+pathway-help-cover-letter-example   cover letter, show example of cover letter, example of cover letter
+pathway-help-interview  information with interviews, interview preparation, prep prepping for interview, excel in interviews, interview skills, perform well in interviews, interview strategies, Could you assist me with interviewing? Pointers to assist with interviews.
+pathway-help-employers  follow up with employer, following up after applying, maintaining communication with employers
+pathway-help-attire     attire, what to wear, dressing for, clothing
+pathway-help-star   STAR method, situation-task-action-result method using STAR in interviews, answering with STAR technique, information with star method
+curriculum-help-loop    loop, loops, while loop, for loop, loop usage, loop examples
+curriculum-help-conditionals    conditional statement, conditionals, if-else, if statement, else, condition
+curriculum-help-boolean     boolean, boolean values, boolean expressions
+curriculum-help-object-oriented-programming     inheritance, encapsulation, polymorphism, instances of classes, PIE, abstraction, OOP, oop
